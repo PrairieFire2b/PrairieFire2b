@@ -8,7 +8,7 @@
 - 📫 How to reach me: prairie-fire@outlook.com
 - 👨‍💻 I’m developing: programming language, virtual machine
 - 📚 I’m writing: not in my date plan
-
+- 📝 How to query github stats as image: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!---
 PrairieFire2b/PrairieFire2b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
